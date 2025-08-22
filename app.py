@@ -8,6 +8,27 @@ SCREENPLAY = """
 <pre style="white-space: pre-wrap; font-family: monospace;">
 FADE IN:
 
+EXT. FLORENCE – NIGHT
+
+SCENE 0 – PROLOGUE INTRO
+
+NARRATION (V.O.)
+Lanterns shimmer over the gallery’s marble floors. The Duomo’s bell tolls, and for a breath, all of Florence seems to hold still. In the hush, each of you finds your place—each with secrets, suspicions, and your own reasons for attending tonight’s unveiling.
+
+            LORENZO BELLINI
+    Florence puts on her finest dress for such nights… but the shadows still slip through the seams. What secrets will tonight reveal, I wonder?
+
+            ISABELLA CONTI
+    A gathering of this sort always carries more than art on its back. One must watch not just the paintings, but the people.
+
+            FATHER MATTEO
+    God grant this night be free of wickedness. Yet my heart whispers otherwise.
+
+            SOFIA DA REGGIO
+    If there’s magic tonight, I’ll be the one to spot it. Folk in masks and art with secrets—no better place for a mystery.
+
+---
+
 INT. GALLERIA BELLADONNA – NIGHT
 
 A hush of anticipation settles. The MASTER OF CEREMONIES enters, cane tapping softly on marble. Hundreds of candles play across silk and gold, shadows moving with laughter and quiet intrigue. FLORENCE'S FINEST glide through the hall beneath painted ceilings.
@@ -128,6 +149,8 @@ Suddenly, a noble near the dais gasps, clutching his chest. He staggers, collaps
 Panic blooms, shattering the stillness.
 
 FADE OUT.
+
+                                                                                                                                                        Property of Steve-Austin Alcis
 </pre>
 """
 
