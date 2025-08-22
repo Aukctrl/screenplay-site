@@ -12,9 +12,9 @@ INT. GALLERIA BELLADONNA – NIGHT
 
 A hush of anticipation settles. The MASTER OF CEREMONIES enters, cane tapping softly on marble. Hundreds of candles play across silk and gold, shadows moving with laughter and quiet intrigue. FLORENCE'S FINEST glide through the hall beneath painted ceilings.
 
-Near a gilded pillar, MARHERITA MALFI gossips loudly.
+Near a gilded pillar, Margherita MALFI gossips loudly.
 
-                            MARHERITA
+                            Margherita
            (with relish)
         They say a real artist can see the soul inside a painting—careful, or it might look back!
 
@@ -91,10 +91,10 @@ If curiosity about the Master is voiced, Lucrezia glances down, reverent.
 
 Margherita glides past, voice low.
 
-                            MARHERITA
+                            Margherita
         Have you noticed the north wing tonight? I heard a rumor the new painting was brought in just before dusk. No one’s seen it unveiled, not even the gallery’s owner.
 
-The lights dim. Conversation fades. The MASTER OF CEREMONIES steps onto the dais, every whisper silenced.
+The lights dim. Conversation fades. The MASTER OF CEREMONIES  onto the dais, every whisper silenced.
 
                             THE MASTER
            (raising his cane)
@@ -109,7 +109,7 @@ Lucrezia leans in, voice barely a whisper.
                             LUCREZIA
         You see what I mean? He could sell thunder to the clouds…
 
-                            MARHERITA
+                            Margherita
            (smiling)
         I wager even the saints are leaning in to listen.
 
@@ -152,5 +152,7 @@ def screenplay():
         return redirect(url_for('login'))
     return render_template_string(SCREENPLAY)
 
+import os
 if __name__ == '__main__':
-    app.run(debug=True)
+    port = int(os.environ.get('PORT', 10000))  # Render provides PORT; fallback for local use
+    app.run(host='0.0.0.0', port=port)
