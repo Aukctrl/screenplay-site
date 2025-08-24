@@ -10,7 +10,7 @@ FADE IN:
 
 EXT. FLORENCE – NIGHT
 
-SCENE 0 – PROLOGUE INTRO
+		SCENE 0 
 
 NARRATION (V.O.)
 Lanterns shimmer over the gallery’s marble floors. The Duomo’s bell tolls, and for a breath, all of Florence seems to hold still. In the hush, each of you finds your place—each with secrets, suspicions, and your own reasons for attending tonight’s unveiling.
@@ -28,6 +28,7 @@ Lanterns shimmer over the gallery’s marble floors. The Duomo’s bell tolls, a
     If there’s magic tonight, I’ll be the one to spot it. Folk in masks and art with secrets—no better place for a mystery.
 
 ---
+		Scene 1
 
 INT. GALLERIA BELLADONNA – NIGHT
 
@@ -149,6 +150,103 @@ Suddenly, a noble near the dais gasps, clutching his chest. He staggers, collaps
 Panic blooms, shattering the stillness.
 
 FADE OUT.
+		Scene 2
+NARRATION (V.O.)
+A tremor of panic ripples across the marble, voices rising and falling like waves against stone. The noble’s lifeless form lies sprawled at the base of the dais, his elegant clothes twisted, the light in his eyes already gone. Servants shout for help. Glass breaks somewhere in the darkness.
+
+Most guests press back, clutching loved ones or searching for the nearest exit—but some stand frozen, struck not just by fear, but by a sense that something has gone terribly, invisibly wrong.
+
+For a heartbeat, the Master’s voice tries to steady the room, but uncertainty lingers like a cold draft through ancient halls. In the swirl of confusion, those with sharper senses—those who have seen too much, or perhaps not enough—find themselves on the edge of a decision.
+
+Is there a threat still lurking in the crowd?  
+A shadow slipping away, unseen by all but the most watchful?  
+Or are the answers waiting here, hidden among faces painted with terror and masks of civility?
+
+The choice hangs in the air—chase a fleeing phantom, tend to the dying, or search for truth before it slips through trembling fingers.
+
+The chaos erupts. Panic and confusion swirl through the crowd.
+
+For a brief second, the movement parts—REVEALING a BLACK-CLOAKED FIGURE slipping through a side entrance, glancing back only once before vanishing into darkness. The heavy door groans shut behind them.
+
+		scene 3
+
+INT. GALLERIA BELLADONNA – NIGHT
+
+A jolt of shared understanding passes through the group. The air turns thin, tense with anticipation.
+
+For one breathless instant, the gallery’s chaos recedes. The cries and clatter seem to echo from a distant world as your attention converges—each of you, by instinct or dread, fixated on the retreating silhouette. The black-cloaked stranger glances back once, just long enough for candlelight to gleam along a pale cheek and the hint of something strange in their eyes. Then they slip through the side entrance, the door’s heavy hinges groaning shut behind them.
+                            ISABELLA
+           (urgent and firm)
+        We cannot let them vanish. With me—quickly!
+
+Father Matteo murmurs a prayer, hands trembling but steadying.
+
+                            FATHER MATTEO
+           (soft, wavering then firmer)
+        We don’t know who—or what—we’re following. Everyone, keep your wits. If you feel anything strange, speak up.
+
+                            LORENZO
+           (quiet, just above a whisper)
+        I’ve got a bad feeling… If you see anything, say so. I’ll try to keep us on track.
+
+Isabella looks to Sofia, who clutches her amulet, trying to sound brave.
+
+                            ISABELLA
+        Sofia, stay close, all right? We can’t afford to get separated now.
+
+                            SOFIA
+           (a tremor in her voice, nodding)
+        I’m not going anywhere, Isabella. Not alone.
+
+The group cuts through the edge of the crowd—past pale faces, trembling hands, servants frozen with shock.
+
+They slip BEYOND THE DOOR into shadowy, stone corridors. Flickering lanterns throw uncertain shadows on the walls. Every footfall echoes with possibility.
+
+The corridor branches. A faint footstep echoes from above. The black cloak flutters on a stairwell, vanishing upward.
+
+                            ISABELLA
+           (soft, determined)
+        There—stairs. Let’s keep together. No heroes, no splitting up.
+
+                            LORENZO
+           (halfhearted humor, tight)
+        Promise me someone’s watching my back, at least.
+
+                            FATHER MATTEO
+           (reassuring)
+        You’re not alone, Lorenzo. We go as one.
+
+                            SOFIA
+           (almost a whisper, more to herself)
+        I hope we don’t find what we’re looking for…
+
+They ascend, steps echoing with dread. At the landing, a shaft of moonlight illuminates the far end. The figure pauses—white-faced, posture tense—then bolts for a side room. The door rattles open and shut.
+
+For a moment, only the group's own shivering shadows remain.
+
+                            ISABELLA
+           (low, almost pleading)
+        Do we follow? Or wait—what if this is what they want?
+
+                            LORENZO
+           (uncertain, but resolved)
+        If we don’t go, we’ll never know. But we don’t go blind.
+
+                            FATHER MATTEO
+           (breathing deep, steadying)
+        Whatever happens, we face it together.
+
+                            SOFIA
+           (trying to smile)
+        Together, then.
+
+They gather themselves, sharing a silent look of mutual protection, then step forward—into the unknown.
+
+CUT TO BLACK.
+
+
+
+                                                                                                                                                        Property of Steve-Austin Alcis
 
                                                                                                                                                         Property of Steve-Austin Alcis
 </pre>
